@@ -1,2 +1,2 @@
-# staircase-in-c
-User Input to Build a Staircase of desired size in the C language
+# This repository contains some of my other past programming works
+Built in many languages such as C, Python, Java and more.
