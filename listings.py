@@ -1,9 +1,9 @@
-def get_recent_listings(listings):
+def get_recent_listings(house_listings):
     # Create an empty dictionary to store listings by address
     listings_by_address = {}
     
     # Iterate through each listing
-    for listing in listings:
+    for listing in house_listings:
         # extract the 3 variables from list of house listings 
         name, address, date = listing.split(',')
         # cast  to integer from str
